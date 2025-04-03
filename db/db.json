@@ -75,6 +75,13 @@
                 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721918653l/198902277.jpg"
     
             }
+    ],
+    "user": [
+        {
+            "id":1,
+            "username":"johndoe",
+            "password": "123"
+        }
     ]
         
 }
